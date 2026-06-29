@@ -1,6 +1,6 @@
 # ClientPilot AI
 
-**Telegram AI Copilot for Client Conversations**
+**Telegram AI Copilot for Business Client Conversations**
 
 ClientPilot AI is a Laravel-based Telegram bot that helps users manage business client conversations with AI-assisted analysis, reply suggestions, conversation memory, multilingual support, and safety-aware guidance.
 
@@ -59,6 +59,10 @@ Qualify leads, understand buying intent, detect objections, and generate clear n
 ### 🧩 Project Requirement Discussions
 
 Analyze project briefs, clarify missing requirements, identify scope risks, and prepare professional responses.
+
+### 🧑‍💻 Freelancers & Independent Professionals
+
+Help freelancers manage client conversations more effectively, understand project expectations, avoid risky agreements, and respond professionally across freelance platforms and direct client channels.
 
 ### 🛠️ Service Business Communication
 
